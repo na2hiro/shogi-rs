@@ -1,0 +1,6 @@
+var N = null;var sourcesIndex = {};
+sourcesIndex["bitintr"] = {"name":"","files":["andn.rs","bextr.rs","blcfill.rs","blci.rs","blcic.rs","blcmsk.rs","blcs.rs","blsfill.rs","blsi.rs","blsic.rs","blsmsk.rs","blsr.rs","bzhi.rs","cls.rs","lib.rs","lzcnt.rs","macros.rs","mulx.rs","pdep.rs","pext.rs","popcnt.rs","rbit.rs","rev.rs","t1mskc.rs","tzcnt.rs","tzmsk.rs"]};
+sourcesIndex["either"] = {"name":"","files":["lib.rs"]};
+sourcesIndex["itertools"] = {"name":"","dirs":[{"name":"adaptors","files":["mod.rs","multi_product.rs"]}],"files":["combinations.rs","combinations_with_replacement.rs","concat_impl.rs","cons_tuples_impl.rs","diff.rs","either_or_both.rs","exactly_one_err.rs","format.rs","free.rs","group_map.rs","groupbylazy.rs","impl_macros.rs","intersperse.rs","kmerge_impl.rs","lazy_buffer.rs","lib.rs","merge_join.rs","minmax.rs","multipeek_impl.rs","pad_tail.rs","peeking_take_while.rs","permutations.rs","process_results_impl.rs","put_back_n_impl.rs","rciter_impl.rs","repeatn.rs","size_hint.rs","sources.rs","tee.rs","tuple_impl.rs","unique_impl.rs","with_position.rs","zip_eq_impl.rs","zip_longest.rs","ziptuple.rs"]};
+sourcesIndex["shogi"] = {"name":"","dirs":[{"name":"bitboard","files":["factory.rs","mod.rs"]}],"files":["color.rs","error.rs","hand.rs","lib.rs","moves.rs","piece.rs","piece_type.rs","position.rs","square.rs","time.rs"]};
+createSourceSidebar();

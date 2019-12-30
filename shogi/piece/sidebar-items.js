@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Piece","Represents a piece on the game board."]]});

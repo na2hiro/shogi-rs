@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["bitboard",""],["color",""],["error",""],["hand",""],["moves",""],["piece",""],["piece_type",""],["position",""],["square",""],["time",""]]});

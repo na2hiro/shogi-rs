@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Hand","Manages the number of each pieces in each player's hand."]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["MoveRecord","MoveRecord stores information necessary to undo the move."]],"struct":[["Position","Represents a state of the game."]]});

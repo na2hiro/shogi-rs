@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["consts",""]],"struct":[["Square","Represents a position of each cell in the game board."],["SquareIter","This struct is created by the [`iter`] method on [`Square`]."]]});

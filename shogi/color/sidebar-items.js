@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Color","Represents each side of player. Black player moves first."]],"struct":[["ColorIter","This struct is created by the [`iter`] method on [`Color`]."]]});

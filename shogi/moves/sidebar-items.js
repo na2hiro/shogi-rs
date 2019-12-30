@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Move","Represents a move which either is a normal move or a drop move."]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["MoveError","Represents an error occurred during making a move."]],"struct":[["SfenError","The error type for SFEN serialize/deserialize operations."]]});

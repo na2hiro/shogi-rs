@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["PieceType","Represents a kind of pieces."]],"struct":[["PieceTypeIter","This struct is created by the [`iter`] method on [`PieceType`]."]]});
